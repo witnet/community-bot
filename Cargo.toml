@@ -1,0 +1,10 @@
+[package]
+name = "witbot"
+version = "0.1.0"
+authors = ["Johann Og <kronolynx@gmail.com>"]
+
+[dependencies]
+telegram-bot = "0.6.1"
+#telebot = "0.2.7"
+futures = "0.1.18"
+tokio-core = "0.1.12"
